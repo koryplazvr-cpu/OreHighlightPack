@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ore Highlight Pack",
+    "description": "Highlights ores for testing worlds",
+    "uuid": "8d54d7f8-3c40-4d8d-a6d4-111111111111",
+    "version": [1,0,0],
+    "min_engine_version": [1,21,0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4f7a8d4d-7b8b-4e8f-bbbb-222222222222",
+      "version": [1,0,0]
+    }
+  ]
+}

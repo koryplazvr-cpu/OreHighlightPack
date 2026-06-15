@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "Ore Highlight Pack",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "diamond_ore": {
+      "textures": "textures/blocks/diamond_ore"
+    },
+    "stone": {
+      "textures": "textures/blocks/stone"
+    }
+  }
+}
